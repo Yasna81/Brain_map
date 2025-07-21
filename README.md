@@ -15,7 +15,7 @@ Due to clinical relevance and frequent implication in neuropsychiatry and neurod
 - frontal and anterior cortex
 - hippocamus
 
-These rejons are also centeral to neuroendocrine regulations, and could be assesd for the researchers of the related fields.
+These rejons are also centeral to neuroendocrine regulations, and could help researchers of the related fields.
 
 ---
 ### 🚀 features :
@@ -65,7 +65,7 @@ These rejons are also centeral to neuroendocrine regulations, and could be asses
 
 ```r
 #clone this repo
-git clone
+git clone 
 cd BrainMap
 #launch the app
 shiny :: runApp()
@@ -74,12 +74,12 @@ shiny :: runApp()
 ---
 
 
-### 🎯 Project Gaols :
+### 🎯 Project Goals :
 
 
 - Provide a foucesd tool for exploring gene epression in behaviorally relevant brain regions.
 - Support hypothesis generation for the researchers in neuroscience, neuroendocrinology , genomics or transcriptomics.
-- avaluating open-source cntribiutions and reproducibility.
+
 
 ---
 
