@@ -65,7 +65,7 @@ These rejons are also centeral to neuroendocrine regulations, and could help res
 
 ```r
 #clone this repo
-git clone 
+git clone https://github.com/Yasna81/Brain_map.git
 cd BrainMap
 #launch the app
 shiny :: runApp()
